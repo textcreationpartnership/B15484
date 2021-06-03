@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pammelia Musicks miscellanie. Or, Mixed varietie of pleasant roundelayes, and delightfull catches, of 3. 4. 5. 6. 7. 8. 9. 10. parts in one. None so ordinarie as musicall, none so musical, as not to all, very pleasing and acceptable.</title>
+            <author>Ravenscroft, Thomas, 1592?-1635?</author>
+         </titleStmt>
+         <extent>Approx. 45KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15484</idno><idno type="EEBO-CITATION">99846110</idno>
+  <idno type="VID">177197</idno>
+  <idno type="EEBO-PROQUEST">2264201507</idno>
+  <idno type="STC">STC 20759</idno>
+  <idno type="STC">ESTC S110598</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99846110e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177197)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 904:8, 1002:13b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pammelia Musicks miscellanie. Or, Mixed varietie of pleasant roundelayes, and delightfull catches, of 3. 4. 5. 6. 7. 8. 9. 10. parts in one. None so ordinarie as musicall, none so musical, as not to all, very pleasing and acceptable.</title>
+                  <author>Ravenscroft, Thomas, 1592?-1635?</author>
+               </titleStmt>
+               <extent>[56] p. : music  </extent>
+               <publicationStmt>
+                  <publisher>Printed by [John Windet for] William Barley, for R. B[onian] and H. W[alley] and are to be sold at the Spread Eagle at the great north doore of Paules,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Ravenscroft.</note>
+                  <note>At foot of title: Cum priuilegio.</note>
+                  <note>Windet's, Bonian's, and Walley's names from STC and addendum.</note>
+                  <note>Signatures: A²  B-G⁴ H² .</note>
+                  <note>Identified as part of STC 20756 on UMI microfilm reel 1002.</note>
+                  <note>Reproductions of the originals in the Library of Congress and the British Library.</note>
+                  <note>Appears at reel 904 (Library of Congress copy) and at reel 1002 (British Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Glees, catches, rounds, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177197:1"/>
+            <pb facs="tcp:177197:1"/>
+            <p>
+               <hi>Pammelia.</hi> MVSICKS Miscellanie.</p>
+            <p>OR, MIXED VARIETIE OF Pleasant Roundelayes, and delightfull Catches, of 3.4.5.6.7.8.9.10. Parts in one.</p>
+            <p>
+               <hi>None so ordinarie as musicall, none so musical, at not to all, very pleasing and acceptable.</hi>
+            </p>
+            <p>LONDON</p>
+            <p>Printed by <hi>William Barley,</hi> for R. B. and H. W. and are to be sold at the Spread Eagle at the great <hi>North doore of Paules.</hi> 1609.</p>
+            <p>Cum Priuilegio.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177197:2"/>
+            <pb facs="tcp:177197:2"/>
+            <head>TO THE VVELL DIS<g ref="char:EOLhyphen"/>POSED TO READE, AND to the merry disposed to Sing.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Mongst other liberall Arts, Musicke for her part, hath alwayes beene as liberall, in bestowing her melodious gifts, as any one whatsoeuer, and that in such rare manner, for diuersitie: and ample mea<g ref="char:EOLhyphen"/>sure, for multiplicity, as more cannot be expected, except it were more then it is respected: yet in this kind onely, it may seeme somewhat niggardly and vnkind, in neuer (as yet) publikely communicating, but alwayes priuately retaining, and as it were, enuying to all, this more familiar mirth and iocund melodie. But it may bee Musicke hath hitherto beene defectiue in this vaine, because this vaine indeed, hath hitherto been defectiue in Musicke: and therefore, that fault being now mended, this kind of Musicke also is now commended to all mens kind acceptation. This did I willingly vndertake, and haue easily effected, that all might equally pertake of that which is so generally affected. <hi>Catches</hi> so generally affected (I take it) <hi>quia non superant cap<g ref="char:EOLhyphen"/>tum,</hi> because they are so consonant to all ordinaryie musicall ca<g ref="char:EOLhyphen"/>pacity,
+<pb facs="tcp:177197:3"/>being such indeed, as all such whose loue of Musicke ex<g ref="char:EOLhyphen"/>ceedes their skill, cannot but commend, such also, as all such, whose skill in Musicke, exceedes their loue of such sleight and light fanci<g ref="char:EOLhyphen"/>es, cannot either contemne or condemne. Good Art in all, for the more musicall good mirth and melodie for the more Iouiall, sweet harmonie, mixed with much varietie, and both with great facilitie. Harmony to please, varietie to delight, facilitie to inuite thee. Some toyes yet musicall, without absurdity, Some very musicall, yet pleasing without difficulty, light, but not without musickes delight, Musickes pleasantnes, but not without easines, what seemes old, is at least renewed, Art hauing reformed what pleasing tunes iniurious time and ignorance had deformed. The onely intent is to giue generall content, composed by Art to make thee disposed to mirth. Accept there<g ref="char:EOLhyphen"/>fore kindly, what is done willingly, and publi<g ref="char:EOLhyphen"/>shed onely, to please good Company</p>
+         </div>
+      </front>
+      <body>
+         <div type="songs">
+            <pb n="1" facs="tcp:177197:3"/>
+            <div type="rounds_or_catches">
+               <head>Rounds or Catches of three <hi>Ʋoices.</hi>
+               </head>
+               <head type="sub">Cannons in the vnison. 3 <hi>Ʋoc.</hi>
+               </head>
+               <div n="1" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">H</seg>Ey hoe, to the greene wood now let vs goe, sing heaue and hoe, and there shall we find both bucke and Doe, sing heaue and hoe, the Hart the Hinde, and the little prety Roac sing heaue and hoe, Hey hoe, <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="2" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> My fearefull dreames neuer forget shall I, neuer forget shall I, me thought I heard a maiden child condemnd to die, whose name was Iesus, whose .ii. O my fearefull. <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="3" type="song">
+                  <pb facs="tcp:177197:4"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>Olly shepheard and vpon a hill as he sate, so lowd he blew his little horne, and kept right well his gate: Earely in a morning, late in an Euening, and euer blew this little boy, so merily piping: Tere li ter lo .ii. terli terlo, terli ter li ter lo .ii. rer li ter lo terli. Ioly shepheard, <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="4" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>LL in to seruice let vs ring, merily together, ding dong ding dong Bell. All into <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="5" type="song">
+                  <pb n="3" facs="tcp:177197:4"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">N</seg>Ew Oysters, new Oysters, new Oysters new, haue you any wood to cleaue .ii. haue you any wood to cleaue, what kitchin stuffe haue you maides .ii. what kitching stuffe haue you maides? New Oysters, <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="6" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg>Ken leaues in the merry wood so wilde, when will you grow green a, fayrest maid and thou be with child, lullaby maist thou sing a, lulla lullaby lulla lulla lullaby lullaby maist thou sing a Oken leaues <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="7" type="song">
+                  <pb facs="tcp:177197:5"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">N</seg>Ow God bee with old Simeon, for he made Cannes for many a one, and a good old man was he, And Iinkin was his Iorneyman, and hee could tipple of euery can, and thus he said to me, to whome drinke you sir knaue, to you, then hey ho Iolly Iinkin, I spie a knaue in drin<g ref="char:EOLhyphen"/>king, come trole the bole to me. Now God <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="8" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Ell fare the Nightingale, faire fall the Thrush cocke too, but foule faire the filthie bird that singeth Cuckow. Wel <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="9" type="song">
+                  <pb n="5" facs="tcp:177197:5"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">F</seg>Ollow me quickly, Iacke is a pretty boy, round about, standing stout, singing ale in a bole, fala sol, la my dirry come dandy. Follow <hi>vt supra</hi>
+                  </p>
+               </div>
+               <div n="10" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">N</seg>Ow kisse the cup cosen with curtesie, and drinke your part with a heart willingly, then so shall we all agree merily. Now <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="11" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">N</seg>Ew oysters .ii, new walefleet oysters, at a groat a pecke .ii. each oyster worth two pence, fetch vs bread and wine that we may eate, let vs loose no time with such good meat, a banquet for a prince. New <gap reason="missing" extent="1 page">
+                        <desc>〈1 page missing〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div n="12" type="song">
+                  <pb facs="tcp:177197:6"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>LL in to seruice, the belles toles, Al into seruice now ring they all in to seruice, Ding dong dong bell, ding dong bell. Al in to <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="13" type="song">
+                  <head>Cannon three parts in one, in the fift and ninth.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">H</seg>Ey downe a downe, behold and see, what song is this, or how may this bee, three parts in one: Sing all after mee with hey downe downe a downe downe a trole the berry drinke and be mery. Hey downe. <hi>vt supra.</hi>
+                  </p>
+                  <p>
+                     <add>Euerie parte a 5<seg rend="sup">th</seg>. aboue other. The base begins.</add>
+                  </p>
+               </div>
+               <div n="14" type="song">
+                  <pb n="7" facs="tcp:177197:6"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">M</seg>Iserere nostri Domine, secundum Misericordiam tuam. Miserere</hi> vt supra.</p>
+               </div>
+               <div n="15" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">P</seg>Ietas omnium virtutem parens &amp; fundamentum pare▪ &amp; fundamentum. Pietas.</hi> vt supra.</p>
+               </div>
+               <div n="16" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">I</seg>Ntende voci Oratio╌nis meae rex meus &amp; De╌us meus quoniam .ii. ad te orabo. Intende</hi> vt supra. </p>
+               </div>
+               <div n="17" type="song">
+                  <pb facs="tcp:177197:7"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">H</seg>Aec est vita aterna vt cognoscant te solum Deum verum, &amp; quem misisti Iesum Christum &amp; quem misisti Iesum Christum Amen. Haec est</hi> vt supra▪</p>
+               </div>
+               <div n="18" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">M</seg>Iserere nostri Domine viuentium &amp; mortuo. rum. Miserere</hi> vt supra.</p>
+               </div>
+               <div n="19" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> Prayse the Lord ye that feare him, magnifie him all yee seed of Iacob▪ and prayse him all yee seed of Isra╌ell. O prayse <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="20" type="song">
+                  <pb n="9" facs="tcp:177197:7"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He Nightingale, the mery Nightingale, she sweetly sits and sings, and sings: The prety nimble Doe doth trip it to and fro, the stond horse kickes and flinges and flings, the Cuckow he doth flie from tree to tree: And merily through the woods cuckow, cuckow rings. The <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="21" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He old dogge, the iolly olde dogge as he lay in his denne a Huffa, trolilo as he lay in his denne a. <stage>the third,</stage> Buffa, trolilo, as he lay in his denn a. The <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="22" type="song">
+                  <pb facs="tcp:177197:8"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>Oan come kisse me now, once againe for my loue, gentle Ione come kisse me now. <gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>one come <hi>t supra.</hi>
+                  </p>
+               </div>
+               <div n="23" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Y Dame has in her hutch at home, a little dog, hey dog hey. <stage>third.</stage> with a clog. My</p>
+               </div>
+               <div n="24" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">G</seg>Oe no more to Brainford, vnlesse you loue a Punke; for that wicked sinnefull towne hath made me drunke, come follow me. Go <hi>vt supra▪</hi>
+                  </p>
+               </div>
+               <div n="25" type="song">
+                  <pb n="11" facs="tcp:177197:8"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">D</seg>Ame lend me a loafe .ii. from saturday to saturday And longer if you longer may, Dame lend me a loafe. Dame <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="26" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg> Am a thirst, what should I say, alasse I haue no money to pay, fill the pot Butler, fill, fill, for I will drinke with a good will. I <hi>vt supra</hi>
+                  </p>
+               </div>
+               <div n="27" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>Here lies a pudding in the fire, and my parte lies there<g ref="char:EOLhyphen"/>in a: whome should I call in, O thy good fellowes and mine a. <stage>Third</stage> Call in, call in, O thy good fellows and mine a. Ther <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="28" type="song">
+                  <pb facs="tcp:177197:9"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">H</seg>Ey downe a downe downe a behold and see, good hostesse fill the pot for mee, and yet it is the first of three, Take and fill this pot yet once againe, we will for this time thus remaine, when this is spent fill pot againe. Hey downe <hi>vt supra.</hi>
+                  </p>
+                  <p>HEy downe a downe downe a behold and see, this is the best ale belieue me, if ye will drinke more, then call me, Take and fill this pot yet once againe, we will for this time thus remaine, when this is spent fill pot againe. Hey downe <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="29" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Hat hap had I to marry a shrow for she hath giuen me many a blow, and how to please hear a lacke I doe not know. What <hi>vt supra.</hi>
+                  </p>
+                  <lg n="2">
+                     <l>From morrie to euen her tongue neere lies,</l>
+                     <l>Sometime she braules, sometime she cries,</l>
+                     <l>Yet I can scarse keepe her tallants from my eyes.</l>
+                  </lg>
+                  <lg n="3">
+                     <l>If I goe abroad, and late come in,</l>
+                     <l>Sir knaue (saith she) where haue you beene,</l>
+                     <l>And doe I well or ill, she claps me on the skin,</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="rounds_or_catches">
+               <pb n="13" facs="tcp:177197:9"/>
+               <head>Rounds or Catches of foure <hi>Ʋoices.</hi>
+               </head>
+               <head type="sub">Cannons in the vnison. 4 <hi>Ʋoc.</hi>
+               </head>
+               <div n="30" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">H</seg>Ey downe downe .il, hey d. d. d. a d. d. d. down heaue and ho, Rumbelo, follow me my sweet heart follow me where I goe Shall I goe walke the woods so wild, wandering here and there as I was once full sore beguild, what remedy though alas for loue I die with woe, Oft haue I ridden vpon my gray nag, and with his cut tayle he plaid the wag, and down he fell vpon his cragge, fa la re la, la ri dan dino. Hey <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="31" type="song">
+                  <pb facs="tcp:177197:10"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>T, re, me; fa, sol, la, la, sol, fa, me, re, vt. Hey downe downe .ii. hey down .ii. down a. My heart of gold as true as steele as I me leant vnto the bowres, but if my Lady loue me well, Lord so Robin lowres, heaue and hoe Rumbelo, hey trolo troly lo, hey troly trolly hey .ii. .ii. My Ladies gone to Canterbury, S. Thomas be her boote. Shee met with Kate of Malmsbury, why weepst thou maple roote: O sleepst thou or wakst thon Ieffery, Cooke, the rost it burnes, turne round about about, .ii.
+<pb n="15" facs="tcp:177197:10"/> .ii. O Frier how fares thy bandelow bandelow Frier, how fares thy Sandelow, Sandelow. Vt <hi>vt supra</hi>
+                  </p>
+               </div>
+               <div n="32" type="song">
+                  <head>Canon in vnisono.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">M</seg>Iserere mei Deus secun╌dum magnum misericordi╌am tuam, Mise.</hi> .ii. <hi>Mise</hi>╌vt supra,</p>
+               </div>
+               <div n="33" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">C</seg>Onditor Kirie omnium qui viuunt, Kirie Leison. Con.</hi> vt supra </p>
+               </div>
+               <div n="34" type="song">
+                  <pb facs="tcp:177197:11"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">I</seg>Nte Domine speraui non confunder in aeternum: Inte Domine speraui, non confunder in aeternum. In te</hi> vt supra.</p>
+               </div>
+               <div n="35" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">E</seg>Xaudi Domine gra╌ti╌o╌ nem meam. Exaudi</hi> vt supra.</p>
+               </div>
+               <div n="36" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">O</seg>Ra &amp; labara</hi> .ii. <hi>Ora</hi> vtsupra. </p>
+               </div>
+               <div n="37" type="song">
+                  <pb n="17" facs="tcp:177197:11"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">Q</seg>Ʋicquid petieritis patrem in nomine meo, dabit vobis. Quic vt supra.</hi>
+                  </p>
+               </div>
+               <div n="38" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">C</seg>Anta╌te do mine Canticum no╌uum Canti╌cum nonum no nonum. Can╌</hi> vt supra.</p>
+               </div>
+               <div n="39" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">M</seg>Ane nobiscum</hi> .ii. .ii. <hi>Christi quontam ad vesperascit &amp; di╌es inclinatus est. Mane</hi> vt supra. </p>
+               </div>
+               <div n="40" type="song">
+                  <pb facs="tcp:177197:12"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">E</seg>Mitte lucem tuam &amp; verita╌tem ipsa me deducant &amp; adducant in montem sanctum tuum &amp; in Tabernacula. Emitte</hi> vt supra,</p>
+               </div>
+               <div n="41" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">F</seg>Ides est anima, vi╌ta sicut anima est vita cor╌poris. Fides</hi> vt supra.</p>
+                  <p>
+                     <hi>Canon in Diapason, subdiateseron, &amp; Diapente.</hi>
+                  </p>
+               </div>
+               <div n="42" type="song">
+                  <head>Canon in Diapason, subdiateseron, &amp; Diapente.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">D</seg>Escendet Christus de coelo. Des.</hi> vt supra. <hi>Canon, tres in Vnisonus, &amp; alias in Diapason.</hi>
+                  </p>
+               </div>
+               <div n="43" type="song">
+                  <head>Canon, tres in Vnisonus, &amp; alias in Diapason.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">A</seg>Scendit Christus in coelum. Ascen.</hi> vt supra.</p>
+               </div>
+               <div n="44" type="song">
+                  <pb n="19" facs="tcp:177197:12"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">A</seg>Diuna nos De╌us. Adiu.</hi> vt supra,</p>
+               </div>
+               <div n="45" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> Lord of whome I doe depende, beholde my carefull heart, and when thy will and pleasure is, release mee of my smart. O Lord <hi>vt supra..</hi>
+                  </p>
+                  <lg>
+                     <l>Thou seest my sorrowes what they are,</l>
+                     <l>my griefe is knowne to thee:</l>
+                     <l>And there is none that can remoue,</l>
+                     <l>or take the same from mee.</l>
+                  </lg>
+                  <lg>
+                     <l>But onely thou whose aide I craue,</l>
+                     <l>whose mercy still is prest:</l>
+                     <l>To ease all those that come to thee,</l>
+                     <l>for succour and for rest.</l>
+                  </lg>
+               </div>
+               <div n="46" type="song">
+                  <pb facs="tcp:177197:13"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Ttend my people and giue eare, of ferly things I shall thee teell See that my words in mind thou beare, and to my precepts listen well. At╌<hi>vt supra</hi>
+                  </p>
+                  <lg>
+                     <l>I am thy soueraigne Lord and God,</l>
+                     <l>which haue thee brought from carefull thrall:</l>
+                     <l>And eke reclaimde from Pharaohs rod,</l>
+                     <l>make thee no Gods on them to call.</l>
+                  </lg>
+                  <lg>
+                     <l>Nor fashioned forme of any thing,</l>
+                     <l>in heauen or earth to worshippe it:</l>
+                     <l>For I thy God by reuenging,</l>
+                     <l>with grieuous plagues this sinne will smite.</l>
+                  </lg>
+               </div>
+               <div n="47" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> Lord in thee is all my trust, giue eare vnto my wofull crie, re<g ref="char:EOLhyphen"/>fuse me not that am vniust, but bowing downe thy heauenly eye. O Lord <hi>vt supra.</hi>
+                  </p>
+                  <lg n="2">
+                     <l>Behold how I doe still lament</l>
+                     <l>my sinnes wherein I doe offend,</l>
+                     <l>O Lord for them shall I be shent,</l>
+                     <l>sith thee to please I do entend.?</l>
+                  </lg>
+                  <lg n="3">
+                     <l>No, no not so, thy will is bent,</l>
+                     <l>to deale with sinners in thine ire:</l>
+                     <l>But when in heart they shall repent,</l>
+                     <l>thou grantst with speed their iust desire:</l>
+                  </lg>
+               </div>
+               <div n="48" type="song">
+                  <pb n="21" facs="tcp:177197:13"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> Lord turne not away thy face from him that lieth prostrate, lamenting sore his sinnefull life before thy mercies gate, which gate thou openest wide to those that doe lament their sinne, Shut not that gate against me Lord, but let me enter in. O Lord <hi>vt supra.</hi>
+                  </p>
+                  <lg n="2">
+                     <l>And call me not to mine accounts</l>
+                     <l>how I haue liued here:</l>
+                     <l>For then I know right well O Lord,</l>
+                     <l>how vile I shall appeare.</l>
+                     <l>I need not to confesse my life</l>
+                     <l>I am sure thou canst tell,</l>
+                     <l>What I haue beene, and what I am,</l>
+                     <l>I know thou knowest it well.</l>
+                  </lg>
+               </div>
+               <div n="49" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">A</seg>Dieu seul soit honneur honneur et gloire honneur et gloire adieu seul soit, honneur et glorie adieu seul soit honneur et gloire. Adieu</hi> vt supt</p>
+               </div>
+               <div n="50" type="song">
+                  <pb facs="tcp:177197:14"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">C</seg>Elebrous sans cesse de diu ces boutes celebrous sans cesse de dieu ces boutes. Cele</hi>╌vt supra.</p>
+               </div>
+               <div n="51" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">S</seg>Anct escriture te propa se, situ veni a compler la loy damer ton dieu sour toute chose et ton Prochain antant que toy. Sanct.</hi> vt supra,</p>
+               </div>
+               <div n="52" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">D</seg>Onec aboire alle bon companion alleluia alleluia Donec vt supra.</hi>
+                  </p>
+               </div>
+               <div n="53" type="song">
+                  <pb n="23" facs="tcp:177197:14"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>S I mee walked in a May Morning, I heard a birde sing Cuckow. As <hi>vt supra.</hi>
+                  </p>
+                  <p>
+                     <add>Cuckow.</add>
+                  </p>
+                  <lg>
+                     <l n="3">Shee nodded vp and downe,</l>
+                     <l>and swore all by her crowne,</l>
+                     <l>Shee had friends in the towne,</l>
+                  </lg>
+                  <p>Cuckow.</p>
+                  <lg>
+                     <l n="4">All you that married be,</l>
+                     <l>
+                        <add>Come</add> learne this song of me,</l>
+                     <l>So shall we <add>well</add>
+                        <del>not</del> agree,</l>
+                  </lg>
+                  <p>Cuckow.</p>
+                  <lg>
+                     <l n="5">All young men in this throng,</l>
+                     <l>to marry that thinke it long,</l>
+                     <l>Come learne of me this song,</l>
+                  </lg>
+                  <p>Cuckow.</p>
+               </div>
+               <div n="54" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He white Henne shee cackles and layes in the puddles, Sing hey cocke without a combe, cocke adle luddle. The <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="55" type="song">
+                  <pb facs="tcp:177197:15"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He winde blowes out of the west, thou gentle Mariner a, looke to the looffe wel, beware the lee still, for deadly rockes doe now a<g ref="char:EOLhyphen"/>peare a, looke to thy tacke, let bowling goe slacke, so shal wee scape them and goe cleare, Tarra tan tarra stir well thy course sirra, the wind waxeth large, the sheetes doe thou vear, goe fill the canne, giue vs some beare. Ile drinke thee Ile brinks thee my mates, what cheare? The <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="56" type="song">
+                  <pb n="25" facs="tcp:177197:15"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>Acke boy, ho boy newes, the cat is in the well, let vs ring now for her knell, ding dong ding dong bell, Iacke <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="57" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">B</seg>Low thy horne thou iolly hunter, thy hornes for to reuiue a; shew thy selfe a good huntsman whilst that thou art aliue a, that men may say and sing with thee, thou hast a merry life a, in pleasure all the day, and Venus mate to wife a. Blow <hi>vt supr<gap reason="illegible" resp="#uom" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a.</hi>
+                  </p>
+               </div>
+               <div n="58" type="song">
+                  <pb facs="tcp:177197:16"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">B</seg>Anbery Ale where where where, at the Blacke Smithes house, I would I were there. Banbery <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="59" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg> Miller, a miller, a miller would I be, to learne his craft as well as he, by art to steale, by cunning to lie, to get a poling penny thereby. A <hi>vt supra</hi>
+                  </p>
+               </div>
+               <div n="60" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">B</seg>Irch and greene holly, birch and greene holly, if thou beest beaten boy, thanke thine owne folly. Birch <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="61" type="song">
+                  <pb n="27" facs="tcp:177197:16"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He Larke Linit and Nightingale to sing some say are best, yet merily sings little Robin, prety Robin with the red breast. The <hi>vt supra</hi>
+                  </p>
+               </div>
+               <div n="62" type="song">
+                  <p>
+                     <seg rend="decorInit">T</seg>trole .ii. trole the bole to me, and I will trole the same again to thee, beginne now hold in now, for we must merry be as you see, be lusty so must we, Oh it is a braue thing for to passe away the spring with mirth and ioy to sing, Tan tan tan tara tant tant, alla flant braue boyes, what ioy is this to see, when friends so well agree. Trole <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="63" type="song">
+                  <pb facs="tcp:177197:17"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">N</seg>Ow Robin lend to me thy bow, Sweet Robin lend to me thy bow, for I must now a hunting with my Lady goe, with my sweet Lady goe. Now <hi>vt supra.</hi>
+                  </p>
+                  <lg n="2">
+                     <l>And whether will thy Lady goe,</l>
+                     <l>Sweet Wilkin tell it vnto me:</l>
+                     <l>And thou shalt haue my hawke, my hound, and eke my bow</l>
+                     <l>to wait on thy Lady.</l>
+                  </lg>
+                  <lg n="3">
+                     <l>My Lady will to Vppingham,</l>
+                     <l>to Vppingham forsooth will shee,</l>
+                     <l>And I my selfe appointed for to be the man,</l>
+                     <l>to wait on my Lady.</l>
+                  </lg>
+                  <lg n="4">
+                     <l>Adiew good Wilkin all be shrewde,</l>
+                     <l>thy hunting nothing pleaseth mee,</l>
+                     <l>But yet beware thy babling hounds stray not abroad,</l>
+                     <l>for angring of thy Lady.</l>
+                  </lg>
+                  <lg n="5">
+                     <l>My hounds shall be led in the line,</l>
+                     <l>so well I can assure it thee:</l>
+                     <l>Vnlesse by view of straine some persue I may find,</l>
+                     <l>to please my sweete Lady.</l>
+                  </lg>
+                  <lg n="6">
+                     <l>With that the Lady shee came in,</l>
+                     <l>and wild them all for to agree:</l>
+                     <l>For honest hunting neuer was accounted sinne,</l>
+                     <l>nor neuer shall for me.</l>
+                  </lg>
+               </div>
+               <div n="64" type="song">
+                  <pb n="29" facs="tcp:177197:17"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">F</seg>Arewell mine owne sweet heart farewell whome I loue best since I must from my loue depart, adew my ioy and rest. fare. <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="65" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">F</seg>Ay mi, fa re la mi, beginne my sonne and follow mee sing flat fa, me, so shall wee well agree, hey tro lo ly lo ly lo, hold fast good son with hey tro li ly lo tro lo ly, O sing this once again lustily. Fa <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="66" type="song">
+                  <pb facs="tcp:177197:18"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Vsing .ii. musing mine owne selfe all alone, I heard a maid .ii. I heard a maid making great mone with sobs and sighes, &amp; many a grieuous moane, for that for that for that her maidenhead was gone. Mu╌<hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="67" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>O Portsmouth .ii. it is a gallant towne, and there wee will haue a quart of wine with a nutmeg browne, diddle downe. The gal<g ref="char:EOLhyphen"/>lant shippe, the Mermaid, the Lion hanging stout, did make vs to spend there our sixeteen pence all out. The <hi>vt supra</hi>
+                  </p>
+               </div>
+               <div n="68" type="song">
+                  <pb n="31" facs="tcp:177197:18"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">C</seg>Ome drinke to mee, and I will drinke to thee to thee, and then shall we full well agree. I haue loued the iolly tankerd full seuen winters and more, I loude it so long till that I went vpon the score, he that loues not the tankerd is no honest man .li. and he is no right souldier that loues not the can: tappe the canikin, tosse the Canikin, trole the cani<g ref="char:EOLhyphen"/>kin turne the canikin, hold good sonne and fill vs afresh can, that wee may quaffe it round about from man to man. Come <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="69" type="song">
+                  <pb facs="tcp:177197:19"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Ets haue a peale for Iohn Cookes soule, for he was an honest man with belles all in an order, the cruse with the blacke bole. the tankard likewise with the can, and I my owne selfe will ring the treble bell, and drinke to you euery one: stand fast now my mates, ring merily and well till all this good ale is gon. Lets <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="70" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">S</seg>Ing we this roundelay merily my mate, ill may he thriue that doth vs hate, Sing we this roundelay merily each one, take care who will for ile take none Sing <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="71" type="song">
+                  <pb n="33" facs="tcp:177197:19"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>T re mi fa mi re vt, hey derry derry sing and be merry, <hi>quando veni quando coeli,</hi> whip little Dauids bome, bome. Vt <hi>vt supra.</hi>
+                  </p>
+                  <div type="part">
+                     <opener>The fourth must sing the Fa burthen.</opener>
+                     <p>Bome bome. .ii. Bome. Bome <hi>vt supra.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="72" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Ady come down and see the Cat sits in the Plumtree. Lady <hi>vt supra</hi>
+                  </p>
+               </div>
+               <div n="73" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Oue, loue sweet loue for euermore farewell to thee, for fortune hath deceiued me .iii. Fortune my foe, most contrary hath wrought me this misery, but yet my loue, my sweet loue farewell to thee, farewell to thee. Loue <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="74" type="song">
+                  <pb facs="tcp:177197:20"/>
+                  <head>A Round of three Country dances in one.</head>
+                  <div n="bass or ground" type="part">
+                     <head>Basse or Ground.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Ing after fellows, as you heare me, a toy that seldome is seene a: three country dances in one to be a prety conceit as I weene a.</p>
+                  </div>
+                  <div n="tenor" type="part">
+                     <head>Tenor.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">R</seg>Obin Hood Robin Hood said little Iohn, come dance be<g ref="char:EOLhyphen"/>fore the Queene a. In a redde Petticote and a greene iacket, a white hose and a greene a. <hi>vt supra.</hi>
+                     </p>
+                  </div>
+                  <div n="cantus" type="part">
+                     <pb n="35" facs="tcp:177197:20"/>
+                     <head>Cantus.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">N</seg>Now foote it as I do, Tom boy Tom, now foot it as I doe Swithen a, And Hicke thou must tricke it all alone, till Robin come leaping in betweene a. <hi>vt supra.</hi>
+                     </p>
+                  </div>
+                  <div n="medius" type="part">
+                     <head>Medius.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">T</seg>He crampe is in my purse full sore, no money will bide there in a, and if I had some salue therefore, O lightly then would I sing a, hey hoe the Crampe a, hey hoe the Crampe a, hey hoe the crampe a the crampe a. The <hi>vt supra.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div type="rounds_or_catches">
+               <pb facs="tcp:177197:21"/>
+               <head>Rounds or Catches of fiue <hi>Ʋoices.</hi>
+               </head>
+               <head type="sub">Canons in the vnison. 5. <hi>Ʋoc.</hi>
+               </head>
+               <div n="75" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">C</seg>Ome follow me merily my mates, lets all agree and make no faults. Take heed of time, tune and eare, time, tune and eare, And then without all doubt, wee need not feare to sing this catch throughout: Malkin was a country maid, a country maid tricke and trim, tricke and trim as she might be, she would needes to the Court shee said to sell milke and firmenty, hey hoc, haue with you now
+<pb n="37" facs="tcp:177197:21"/> to Westminster, but before you come there, because the way is farre some prety talke lets heare. Adew you dainty dames, goe whether you will for me, you are the very same I tooke you for to be. Come <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="76" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Hite wine and suger is good drinke for mee, for so said Parson Brat, but Gough saide nay to that, for hee loued Malmesie. white wine <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="77" type="song">
+                  <pb facs="tcp:177197:22"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">L</seg>Ibera me Domine a persequentibus me quia comfor<g ref="char:EOLhyphen"/>tati sunt su╌per me Libera</hi> vt supra.</p>
+               </div>
+               <div n="78" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">V</seg>Niuersa transeunt</hi> .ii. .ii. .ii. <hi>transeunt, Vniuersa</hi> vt supra.</p>
+               </div>
+               <div n="79" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">V</seg>ias tuas Domine. demonstra mihi, &amp; semitas tuas edoce me, edoce me Ʋias</hi> vt supra. </p>
+               </div>
+               <div n="80" type="song">
+                  <pb n="39" facs="tcp:177197:22"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">F</seg>Ides est a ni╌ma ma vi╌ta si╌cut anima est vita corporis. Fides</hi> vt supra.</p>
+               </div>
+               <div n="81" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">S</seg>I <hi>non pa╌uisti ecci╌disti Si</hi> vt supra.</p>
+               </div>
+               <div n="82" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">V</seg>Er╌hum Domini manet in aeternum in aeter╌num verbum</hi> vt supra.</p>
+               </div>
+               <div n="83" type="song">
+                  <pb facs="tcp:177197:23"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">S</seg>Ing you now after me, and as I sing sing yee, so shall we well agree, fiue parts in vnity, ding dong, ding dong, ding dong, ding dong bell. Sing <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="84" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>Inkin the iester was wont to make glee with Iaruis the Iugler till angry was he, then Wilkin the Wiseman did wisely foresee, that Iugler and Iester should gently agree, hey down, d. d. down derie d. d. d. d. down, d. Iinkin <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="85" type="song">
+                  <pb n="41" facs="tcp:177197:23"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">H</seg>Ey ho no╌body at home, meate nor drink nor money haue I none, fill the pot Eadie. Hey <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="86" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>T, re, mi, fa sol, la, la, fa, fa, mi, re vt. Hey down a d. a dising you three after me and follow me my lads .ii. my lads and we will merry be fa, la, la, la, la, .ii. fa, la, .ii. fa, la, .ii, la. la well song before hold fast .ii, .ii. hold fast betime, take heed .ii. you misse not nor breake the time, nor .ii. for if thou misse the Basse a note theres nere a man .ii. can sing a iot. Vt <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="87" type="song">
+                  <pb facs="tcp:177197:24"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Et Lobcocke leaue his wife at home with lustie .ii. Iinkin that clownish Groome, with tighee, with two alone, with ta ba farewell my kind moame, yet must we looke kindly when Lobcocke comes home. Let <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="88" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>T, re, mi, fa, sol, la, la, sol, fa. mi, re, vt. Hey downe, down, down, down, sing you now after me, la, mi, sol, re, fa, so shall
+<pb n="43" facs="tcp:177197:24"/> we well agree, take heede to your time, and rest as you find, the round and the square must be tunde in their kind: O well sung my Lads I say, we are as good by night as by day, la, mi, sol, re, fa, let vs be merry, heare so long time as you may, for time truely passeth away, hey ho, hey ho, hey ho, hey ho, hey ho. Vt <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="89" type="song">
+                  <pb facs="tcp:177197:25"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">K</seg>Eepe well your ray my lads, and shew your selues like men, this day our foes shall feele our forces once againe, now let the trumpet sound .ii. their deadly blast, tantarra, tantarra, tantarra tan, stand to it first and last, with tautara ra .ii. see hey, they flie full fast. Keepe <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="90" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">H</seg>Ow should I sing wel and not be weary, and ii. Since we lacke money to meke vs merry, to make vs merry, since we lacke money to make vs merry, since we lacke money to make vs merry. how <hi>vt supra.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="rounds_or_catches">
+               <pb n="45" facs="tcp:177197:25"/>
+               <head>Rounds or Catches of sixe <hi>Ʋoices.</hi>
+               </head>
+               <head type="sub">Canons in the vnison. 6 Voc.</head>
+               <div n="91" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>Oy in the gates of Ierusalem, peace bee in Sion. Ioy <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="92" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">L</seg>Audate nomen Domini, laudate serui Dominum qui statis in domo domini. Laudate</hi> vt supra.</p>
+               </div>
+               <div n="93" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">D</seg>Omine Fili Dei vi╌vi miserere nostri, qui tollis. qui tollis peccata mund. Domine</hi> vt supra. </p>
+               </div>
+               <div n="94" type="song">
+                  <pb facs="tcp:177197:26"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">B</seg>Enedic Domine nobis his donis tuis quae de tua largitate sumus sump╌turi. Benedic</hi> vt supra.</p>
+               </div>
+               <div n="95" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">N</seg>Ow thanked bee the great God Pan, which thus pre<g ref="char:EOLhyphen"/>serues my loued life, and thanked be I that keepe a man who ended hath this bloudy strife, for if my man must prayses haue, what then must I that keepe the knaue. Now <hi>vt supra.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="round_or_catch">
+               <pb n="47" facs="tcp:177197:26"/>
+               <head>A Round or Catch for se<g ref="char:EOLhyphen"/>uen Voices.</head>
+               <div n="96" type="song">
+                  <head>Canon in the vnison. 7. Ʋoc.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">L</seg>Aaudate nomen Domini super omnes Gentes. Laudate.</hi> vt supra.</p>
+               </div>
+            </div>
+            <div type="rounds_or_catches">
+               <head>Rounds or Catches of Eight Voices.</head>
+               <head type="sub">Cannons in the vnison 8 <hi>Ʋoc.</hi>
+               </head>
+               <div n="97" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>Ets haue a peale for Iohn Cookes soule for hee was a very very honest man, an honest man. Lets <hi>vt supra.</hi>
+                  </p>
+               </div>
+               <div n="98" type="song">
+                  <pb facs="tcp:177197:27"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">D</seg>Elicta quil intelligu; ab accult is meis munda me. Delicta</hi> vt supra.</p>
+               </div>
+            </div>
+            <div type="round_or_catch">
+               <head>A Round or Catch for Nine voices.</head>
+               <div n="99" type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">H</seg>Ey hoe what shall I say, Sir Iohn hath carried my wife away, they were gone ere I wist, she will come when she list, hey trolly trolly lolly, come againe ho, hey </p>
+               </div>
+            </div>
+            <div type="round_or_catch">
+               <pb n="49" facs="tcp:177197:27"/>
+               <head>A Round or Catch for ten or eleuen voices.</head>
+               <div n="100" type="song">
+                  <head>Canon in the vnison. 10. <hi>or</hi> 11. <hi>Ʋoc.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">S</seg>Ing we now merily our purses be empty hey ho, let them take care that list to spare for I will not doe so, who can sing so merry a note, as he that cannot change a groat, hey hoe trolly lolly loe, trolly lolly lo. Sing <hi>vt supra.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:177197:28"/>
+            <head>A Table of all the Songes contained in this Booke.</head>
+            <list>
+               <head>Songs of three voices.</head>
+               <item>
+                  <add>..</add> HEy hoe to the green. 1</item>
+               <item>
+                  <add>..</add> O my fearefull dreames. 2</item>
+               <item>
+                  <add>∴</add> Iolly sherpheard. 3</item>
+               <item>
+                  <add>..</add> All into seruice. 4</item>
+               <item>
+                  <add>∴</add> New Oysters. 5</item>
+               <item>
+                  <add>∴</add> Oken leaues. 6</item>
+               <item>
+                  <add>..</add> Now God be with. 7</item>
+               <item>
+                  <add>.</add> Well fare the Nightingale. 8</item>
+               <item>
+                  <add>∴</add> Follow me quickly. 9</item>
+               <item>
+                  <add>..</add> Now kisse the cup. 10</item>
+               <item>
+                  <add>..</add> New Oysters new. 11</item>
+               <item>
+                  <add>.</add> All in to seruice. 12</item>
+               <item>
+                  <add>∴</add> Hey downe a downe. 13</item>
+               <item>
+                  <hi>Miserere nostri.</hi> 14</item>
+               <item>
+                  <add>..</add>
+                  <hi>Pietas omnium.</hi> 15</item>
+               <item>
+                  <add>..</add>
+                  <hi>Intende voci Orationis.</hi> 16</item>
+               <item>
+                  <add>.</add>
+                  <hi>Haec est vita aeterna.</hi> 17</item>
+               <item>
+                  <hi>Miserere nostri.</hi> 18</item>
+               <item>
+                  <add>∴</add> O prayse the Lord, 19</item>
+               <item>˙The Nightingale. 20</item>
+               <item>
+                  <add>.</add> The olde dogge. 21</item>
+               <item>Ioan come kisse me now. 22</item>
+               <item>My Dame has in her huch. 23</item>
+               <item>
+                  <add>.</add> Goe no more to Brainford 24</item>
+               <item>Dame lend me a loafe. 25</item>
+               <item>
+                  <add>..</add> I am a thirst. 26</item>
+               <item>
+                  <add>..</add> There lies a pudding. 27</item>
+               <item>
+                  <add>∴</add> Hey downe a downe. 28</item>
+               <item>
+                  <add>∴</add> What happe had I. 29</item>
+            </list>
+            <list>
+               <head>Songs of foure voices.</head>
+               <item>
+                  <add>∴</add> Hey downe downe. 30</item>
+               <item>
+                  <add>∴</add> Vt, re, me, fa, sol. 31</item>
+               <item>
+                  <hi>Miserere mei Deus.</hi> 32</item>
+               <item>
+                  <add>.</add>
+                  <hi>Conditor Kirie omnium.</hi> 33</item>
+               <item>
+                  <add>.</add>
+                  <hi>In te Domine speraui.</hi> 34</item>
+               <item>
+                  <hi>Exaudi Domine.</hi> 35</item>
+               <item>
+                  <add>..</add>
+                  <hi>Ora &amp; labora.</hi> 36</item>
+               <item>
+                  <add>..</add>
+                  <hi>Quicquid petieritis.</hi> 37</item>
+               <item>
+                  <add>..</add>
+                  <hi>Cantate Domino canticum.</hi> 12. 38</item>
+               <item>
+                  <hi>Mane nobiscum.</hi> 39</item>
+               <item>
+                  <hi>Emitte lucem tuam.</hi> 40</item>
+               <item>
+                  <add>∴</add>
+                  <hi>Fides est anima vitae sicut.</hi> 41</item>
+               <item>
+                  <hi>Descendet Christus de coelo.</hi> 42</item>
+               <item>
+                  <hi>Ascendit Christus in caelum.</hi> 43</item>
+               <item>
+                  <add>..</add>
+                  <hi>Adiuua nos Deus.</hi> 44</item>
+               <item>
+                  <add>∴</add> O Lord of whom I do depend. 45</item>
+               <item>
+                  <add>∴</add> Attend my people. 46</item>
+               <item>
+                  <add>∴</add> O Lord in thee is all my trust. 47</item>
+               <item>
+                  <add>∴</add> O Lord turne not away. 48</item>
+               <item>
+                  <add>..</add>
+                  <hi>Adieu senl soit houneur.</hi> 49</item>
+               <item>
+                  <add>..</add>
+                  <hi>Celebrous sans cesse de.</hi> 50</item>
+               <item>
+                  <add>.</add>
+                  <hi>Sanct escriture te</hi> 51</item>
+               <item>
+                  <add>.</add>
+                  <hi>Donec aboire.</hi> 52</item>
+               <item>
+                  <add>∴</add> As I me walked in a May. 53</item>
+               <item>
+                  <add>.</add> The white Henne she cackles. 54</item>
+               <item>
+                  <add>.</add> The wind blowes out. 55</item>
+               <item>
+                  <add>∴</add> Iacke boy, ho boy. 56</item>
+               <item>Blow thy horne thou iolly. 57</item>
+               <item>Banbery Ale. 58</item>
+               <pb n="51" facs="tcp:177197:28"/>
+               <item>
+                  <add>∴</add> A miller, a miller, a miller. 59</item>
+               <item>
+                  <add>..</add> Birch and greene holly. 60</item>
+               <item>The Larke Linit. 61</item>
+               <item>
+                  <add>∴</add> Trole trole the bole. 62</item>
+               <item>
+                  <add>..</add> Now Robin lend. 63</item>
+               <item>
+                  <add>∴</add> Farewell mine owne. 64</item>
+               <item>
+                  <add>∴</add> Fa, mi, fa, re, la, mi. 65</item>
+               <item>
+                  <add>∴</add> Musing mine owne selfe. 66</item>
+               <item>
+                  <add>..</add> To Portsmouth. 67</item>
+               <item>
+                  <add>.</add> Come drinke to me. 68</item>
+               <item>
+                  <add>..</add> Lets haue a Peale 69</item>
+               <item>
+                  <add>∴</add> Sing we this roundelay. 70</item>
+               <item>
+                  <add>..</add> Vt, re, mi, fa, mi, re, vt. 71</item>
+               <item>Lady come downe. 72</item>
+               <item>
+                  <add>.</add> Loue sweet loue. 73</item>
+               <item>
+                  <add>..</add> Sing after fellowes. 74</item>
+            </list>
+            <list>
+               <head>Songs of fiue voices.</head>
+               <item>
+                  <add>∴</add> Come follow me merily. 75</item>
+               <item>
+                  <add>.</add> White wine and suger. 76</item>
+               <item>
+                  <hi>Libera me Domine.</hi> 77</item>
+               <item>
+                  <hi>Vniuersa transeunt.</hi> 78</item>
+               <item>
+                  <add>∴</add>
+                  <hi>Vias tuas Domine demonstra.</hi> 79</item>
+               <item>
+                  <add>..</add>
+                  <hi>Fides est anima.</hi> 80</item>
+               <item>
+                  <add>..</add>
+                  <hi>Si non pauisti occidisti.</hi> 81</item>
+               <item>
+                  <add>..</add>
+                  <hi>Verbum Domini manet.</hi> 82</item>
+               <item>
+                  <add>∴</add> Sing you after me. 83</item>
+               <item>
+                  <add>..</add> Iinkin the Iester. 84</item>
+               <item>Hey ho no body. 85</item>
+               <item>
+                  <add>∴</add> Vt, re, mi, fa, sol, la, 86</item>
+               <item>
+                  <add>∴</add> Let Lobcocke. 87</item>
+               <item>
+                  <add>∴</add> Vt, re, mi, fa, sol. 88</item>
+               <item>
+                  <add>∴</add> Keepe well your ray. 89</item>
+               <item>How should I sing well, 90</item>
+            </list>
+            <list>
+               <head>Songs of sixe voices.</head>
+               <item>
+                  <add>∴</add> Ioy in the gates of Ierusalem. 91</item>
+               <item>
+                  <add>.</add>
+                  <hi>Laudate nomen Domini.</hi> 92</item>
+               <item>
+                  <hi>Domine Fili Dei.</hi> 93</item>
+               <item>
+                  <add>..</add>
+                  <hi>Benedic Domine nobis.</hi> 94</item>
+               <item>
+                  <add>..</add> Now thanked be the. 95</item>
+            </list>
+            <list>
+               <head>A Song of seuen voices.</head>
+               <item>
+                  <hi>Laudate nomen Domini.</hi> 96</item>
+            </list>
+            <list>
+               <head>Songs of eight voices.</head>
+               <item>
+                  <add>..</add> Lets haue a peale. 97</item>
+               <item>
+                  <hi>Delicta quis intelligit.</hi> 98</item>
+            </list>
+            <list>
+               <head>A Song of nine voices.</head>
+               <item>
+                  <add>∴</add> Hey hoe what shall I say. 99</item>
+            </list>
+            <list>
+               <head>A Song of ten voices.</head>
+               <item>Sing we now merily. 100</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
